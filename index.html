@@ -39,7 +39,7 @@
 <script src="./wordcloud2.js"></script>
 <script src="./lib.js"></script>
 <script>
-  fetch('/data.json')
+  fetch('./data.json')
     .then(res => res.json())
     .then(res => {
       let max = res[0].value
