@@ -3,20 +3,15 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Tittttle!</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css">
 </head>
-<style rel="stylesheet">
-</style>
-<link rel="stylesheet" href="node_modules/animate.css/source/_vars.css">
-<link rel="stylesheet" href="node_modules/animate.css/source/_base.css">
-<link rel="stylesheet" href="node_modules/animate.css/source/fading_entrances/fadeIn.css">
-<link rel="stylesheet" href="node_modules/animate.css/source/zooming_entrances/zoomIn.css">
-<link rel="stylesheet" href="node_modules/animate.css/source/fading_exits/fadeOut.css">
 <body style="margin: 0">
 
 <div id="worldcloud-container"
      style="width: 100vw; height: 100vh; position: relative; font-family: system, -apple-system, 'Roboto Light', sans-serif; font-size: 128px; line-height: 150px; font-weight: 400; display: flex; align-items: center; justify-content: center;">
   <div id="worldcloud-canvas" style="position:absolute; left: 0; top: 0; width: 100%; height: 100%"></div>
-  <h1 id="worldcloud-title" class="animated fadeIn"
+  <h1 id="worldcloud-title" class="animate__animated animate__fadeIn"
       style="font-family: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0; padding: 0; position: relative; text-align: center">
     This is a title
   </h1>
@@ -39,10 +34,10 @@
         pointer-events: none;
     }
 </style>
-<script src="node_modules/randomcolor/randomColor.js"></script>
-<script src="node_modules/lodash/lodash.min.js"></script>
-<script src="wordcloud2.js"></script>
-<script src="lib.js"></script>
+<script src="https://unpkg.com/randomcolor@0.6.2/randomColor.js"></script>
+<script src="https://unpkg.com/lodash@4.17.21/lodash.min.js"></script>
+<script src="./wordcloud2.js"></script>
+<script src="./lib.js"></script>
 <script>
   fetch('/data.json')
     .then(res => res.json())
@@ -68,7 +63,7 @@
         const title = document.getElementById('worldcloud-title')
 
         htmlCanvas.innerHTML = ''
-        htmlCanvas.classList.remove('animated', 'fadeOut')
+        htmlCanvas.classList.remove('animate__animated', 'animate__fadeOut')
 
         const {fontFamily, fontSize, fontWeight, width, height, lineHeight} = getComputedStyle(container)
 
@@ -91,7 +86,7 @@
           wait: 0,
           list: list,
           drawMask: false,
-          classes: 'animated zoomIn',
+          classes: 'animate__animated animate__zoomIn',
           maskGapWidth: 8,
           rotateRatio: 0,
           weightFactor: n => {
@@ -110,7 +105,7 @@
       retry()
       const fadeWords = _.throttle(() => {
         const htmlCanvas = document.getElementById('worldcloud-canvas')
-        htmlCanvas.classList.add('animated', 'fadeOut')
+        htmlCanvas.classList.add('animate__animated', 'animate__fadeOut')
       }, 1000, {trailing: false, leading: true})
       const showWords = _.throttle(retry, 1000, {trailing: true, leading: false})
       window.addEventListener('resize', () => {
