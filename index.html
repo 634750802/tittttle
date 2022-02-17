@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tittttle!</title>
+</head>
+<style rel="stylesheet">
+</style>
+<link rel="stylesheet" href="node_modules/animate.css/source/_vars.css">
+<link rel="stylesheet" href="node_modules/animate.css/source/_base.css">
+<link rel="stylesheet" href="node_modules/animate.css/source/fading_entrances/fadeIn.css">
+<link rel="stylesheet" href="node_modules/animate.css/source/zooming_entrances/zoomIn.css">
+<link rel="stylesheet" href="node_modules/animate.css/source/fading_exits/fadeOut.css">
+<body style="margin: 0">
+
+<div id="worldcloud-container"
+     style="width: 100vw; height: 100vh; position: relative; font-family: system, -apple-system, 'Roboto Light', sans-serif; font-size: 128px; line-height: 150px; font-weight: 400; display: flex; align-items: center; justify-content: center;">
+  <div id="worldcloud-canvas" style="position:absolute; left: 0; top: 0; width: 100%; height: 100%"></div>
+  <h1 id="worldcloud-title" class="animated fadeIn"
+      style="font-family: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0; padding: 0; position: relative; text-align: center">
+    This is a title
+  </h1>
+</div>
+</body>
+<style>
+    #worldcloud-canvas a {
+        font-size-adjust: none;
+        user-select: none;
+        cursor: pointer;
+        transition: color .2s ease;
+        text-decoration: none;
+    }
+
+    #worldcloud-canvas a:hover {
+        color: rgba(0, 0, 0, .7) !important;
+    }
+
+    #worldcloud-container h1 {
+        pointer-events: none;
+    }
+</style>
+<script src="node_modules/randomcolor/randomColor.js"></script>
+<script src="node_modules/lodash/lodash.min.js"></script>
+<script src="wordcloud2.js"></script>
+<script src="lib.js"></script>
+<script>
+  fetch('/data.json')
+    .then(res => res.json())
+    .then(res => {
+      let max = res[0].value
+      return res.map(({label, value}) => {
+        return {
+          word: label.split('/')[1],
+          weight: value / max,
+          attributes: {
+            tag: 'a',
+            href: 'https://github.com/' + label,
+            target: '_blank'
+          }
+        }
+      })
+    })
+    .then(list => {
+      window.retry = () => {
+        const canvas = document.createElement('canvas')
+        const container = document.getElementById('worldcloud-container')
+        const htmlCanvas = document.getElementById('worldcloud-canvas')
+        const title = document.getElementById('worldcloud-title')
+
+        htmlCanvas.innerHTML = ''
+        htmlCanvas.classList.remove('animated', 'fadeOut')
+
+        const {fontFamily, fontSize, fontWeight, width, height, lineHeight} = getComputedStyle(container)
+
+        canvas.width = parseInt(width)
+        canvas.height = parseInt(height)
+
+        let seed = 0
+        giveMaskImg(title.innerText, {
+          fontSize: parseInt(fontSize),
+          fontWeight: parseInt(fontWeight) || fontWeight,
+          fontFamily,
+          width: parseInt(width),
+          height: parseInt(height),
+          lineHeight: parseInt(lineHeight),
+        }, {
+          fontSize: parseInt(fontSize),
+          fontWeight: parseInt(fontWeight) || fontWeight,
+          fontFamily,
+          gridSize: 8,
+          wait: 0,
+          list: list,
+          drawMask: false,
+          classes: 'animated zoomIn',
+          maskGapWidth: 8,
+          rotateRatio: 0,
+          weightFactor: n => {
+            return (4 + 50 * n)
+          },
+          color: (word, weight, fontSize, distance, theta) => {
+            return randomColor({
+              seed: seed++,
+              luminosity: 'dark',
+              format: 'rgba',
+              alpha: 0.1 + Math.sqrt(weight) * 0.4
+            });
+          }
+        }, canvas, htmlCanvas);
+      }
+      retry()
+      const fadeWords = _.throttle(() => {
+        const htmlCanvas = document.getElementById('worldcloud-canvas')
+        htmlCanvas.classList.add('animated', 'fadeOut')
+      }, 1000, {trailing: false, leading: true})
+      const showWords = _.throttle(retry, 1000, {trailing: true, leading: false})
+      window.addEventListener('resize', () => {
+        fadeWords()
+        showWords()
+      })
+    })
+</script>
+</html>

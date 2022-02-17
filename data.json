@@ -1,0 +1,2002 @@
+[
+  {
+    "label": "freeCodeCamp/freeCodeCamp",
+    "value": 408607
+  },
+  {
+    "label": "996icu/996.ICU",
+    "value": 367693
+  },
+  {
+    "label": "jwasham/coding-interview-university",
+    "value": 226573
+  },
+  {
+    "label": "vuejs/vue",
+    "value": 225435
+  },
+  {
+    "label": "vhf/free-programming-books",
+    "value": 208982
+  },
+  {
+    "label": "facebook/react",
+    "value": 202578
+  },
+  {
+    "label": "sindresorhus/awesome",
+    "value": 202111
+  },
+  {
+    "label": "kamranahmedse/developer-roadmap",
+    "value": 199280
+  },
+  {
+    "label": "tensorflow/tensorflow",
+    "value": 188808
+  },
+  {
+    "label": "toddmotto/public-apis",
+    "value": 186374
+  },
+  {
+    "label": "donnemartin/system-design-primer",
+    "value": 166754
+  },
+  {
+    "label": "CyC2018/Interview-Notebook",
+    "value": 157428
+  },
+  {
+    "label": "getify/You-Dont-Know-JS",
+    "value": 155058
+  },
+  {
+    "label": "ant-design/ant-design",
+    "value": 152961
+  },
+  {
+    "label": "flutter/flutter",
+    "value": 152528
+  },
+  {
+    "label": "microsoft/vscode",
+    "value": 144167
+  },
+  {
+    "label": "TheAlgorithms/Python",
+    "value": 139268
+  },
+  {
+    "label": "trekhleb/javascript-algorithms",
+    "value": 138340
+  },
+  {
+    "label": "ohmyzsh/ohmyzsh",
+    "value": 135455
+  },
+  {
+    "label": "torvalds/linux",
+    "value": 132661
+  },
+  {
+    "label": "twbs/bootstrap",
+    "value": 132193
+  },
+  {
+    "label": "danistefanovic/build-your-own-x",
+    "value": 131615
+  },
+  {
+    "label": "jackfrued/Python-100-Days",
+    "value": 129382
+  },
+  {
+    "label": "Snailclimb/JavaGuide",
+    "value": 127632
+  },
+  {
+    "label": "airbnb/javascript",
+    "value": 122323
+  },
+  {
+    "label": "github/gitignore",
+    "value": 121507
+  },
+  {
+    "label": "vinta/awesome-python",
+    "value": 117391
+  },
+  {
+    "label": "facebook/react-native",
+    "value": 116554
+  },
+  {
+    "label": "open-source-society/computer-science",
+    "value": 113725
+  },
+  {
+    "label": "atom/electron",
+    "value": 109583
+  },
+  {
+    "label": "jlevy/the-art-of-command-line",
+    "value": 108164
+  },
+  {
+    "label": "labuladong/fucking-algorithm",
+    "value": 107472
+  },
+  {
+    "label": "rg3/youtube-dl",
+    "value": 107171
+  },
+  {
+    "label": "golang/go",
+    "value": 104500
+  },
+  {
+    "label": "facebook/create-react-app",
+    "value": 102875
+  },
+  {
+    "label": "30-seconds/30-seconds-of-code",
+    "value": 97606
+  },
+  {
+    "label": "mzabriskie/axios",
+    "value": 97565
+  },
+  {
+    "label": "angular/angular",
+    "value": 93053
+  },
+  {
+    "label": "io.js",
+    "value": 92835
+  },
+  {
+    "label": "justjavac/free-programming-books-zh_CN",
+    "value": 89731
+  },
+  {
+    "label": "microsoft/terminal",
+    "value": 88528
+  },
+  {
+    "label": "zeit/next.js",
+    "value": 88292
+  },
+  {
+    "label": "kubernetes/kubernetes",
+    "value": 87000
+  },
+  {
+    "label": "denoland/deno",
+    "value": 84160
+  },
+  {
+    "label": "mbostock/d3",
+    "value": 83495
+  },
+  {
+    "label": "microsoft/TypeScript",
+    "value": 82596
+  },
+  {
+    "label": "tensorflow/models",
+    "value": 81642
+  },
+  {
+    "label": "Kickball/awesome-selfhosted",
+    "value": 79906
+  },
+  {
+    "label": "PanJiaChen/vue-element-admin",
+    "value": 79880
+  },
+  {
+    "label": "puppeteer/puppeteer",
+    "value": 79531
+  },
+  {
+    "label": "callemall/material-ui",
+    "value": 78859
+  },
+  {
+    "label": "i0natan/nodebestpractices",
+    "value": 77914
+  },
+  {
+    "label": "iluwatar/java-design-patterns",
+    "value": 77361
+  },
+  {
+    "label": "avelino/awesome-go",
+    "value": 76091
+  },
+  {
+    "label": "mrdoob/three.js",
+    "value": 73883
+  },
+  {
+    "label": "microsoft/PowerToys",
+    "value": 73294
+  },
+  {
+    "label": "MisterBooo/LeetCodeAnimation",
+    "value": 72293
+  },
+  {
+    "label": "storybooks/react-storybook",
+    "value": 72222
+  },
+  {
+    "label": "nvbn/thefuck",
+    "value": 71987
+  },
+  {
+    "label": "apple/swift",
+    "value": 71651
+  },
+  {
+    "label": "M4cs/BabySploit",
+    "value": 71638
+  },
+  {
+    "label": "vuejs/awesome-vue",
+    "value": 68930
+  },
+  {
+    "label": "yangshun/tech-interview-handbook",
+    "value": 68100
+  },
+  {
+    "label": "gothinkster/realworld",
+    "value": 66874
+  },
+  {
+    "label": "laravel/laravel",
+    "value": 66839
+  },
+  {
+    "label": "ryanmcdermott/clean-code-javascript",
+    "value": 66021
+  },
+  {
+    "label": "tonsky/FiraCode",
+    "value": 65954
+  },
+  {
+    "label": "webpack/webpack",
+    "value": 65848
+  },
+  {
+    "label": "daneden/animate.css",
+    "value": 65821
+  },
+  {
+    "label": "spring-projects/spring-boot",
+    "value": 65747
+  },
+  {
+    "label": "tuvttran/project-based-learning",
+    "value": 65344
+  },
+  {
+    "label": "getlantern/lantern",
+    "value": 65139
+  },
+  {
+    "label": "rust-lang/rust",
+    "value": 64957
+  },
+  {
+    "label": "bitcoin/bitcoin",
+    "value": 64740
+  },
+  {
+    "label": "rackt/redux",
+    "value": 64014
+  },
+  {
+    "label": "doocs/advanced-java",
+    "value": 63802
+  },
+  {
+    "label": "sveltejs/svelte",
+    "value": 63579
+  },
+  {
+    "label": "typicode/json-server",
+    "value": 62689
+  },
+  {
+    "label": "Genymobile/scrcpy",
+    "value": 62638
+  },
+  {
+    "label": "netdata/netdata",
+    "value": 62518
+  },
+  {
+    "label": "opencv/opencv",
+    "value": 61839
+  },
+  {
+    "label": "shadowsocks/shadowsocks-windows",
+    "value": 61716
+  },
+  {
+    "label": "atom/atom",
+    "value": 61426
+  },
+  {
+    "label": "huggingface/transformers",
+    "value": 61095
+  },
+  {
+    "label": "thedaviddias/Front-End-Checklist",
+    "value": 61090
+  },
+  {
+    "label": "fchollet/keras",
+    "value": 60669
+  },
+  {
+    "label": "spf13/hugo",
+    "value": 60627
+  },
+  {
+    "label": "macrozheng/mall",
+    "value": 60438
+  },
+  {
+    "label": "django/django",
+    "value": 60233
+  },
+  {
+    "label": "kdn251/Interviews",
+    "value": 60229
+  },
+  {
+    "label": "trimstray/the-book-of-secret-knowledge",
+    "value": 59734
+  },
+  {
+    "label": "gin-gonic/gin",
+    "value": 58730
+  },
+  {
+    "label": "pytorch/pytorch",
+    "value": 58510
+  },
+  {
+    "label": "ElemeFE/element",
+    "value": 57999
+  },
+  {
+    "label": "elasticsearch",
+    "value": 57809
+  },
+  {
+    "label": "chrislgarry/Apollo-11",
+    "value": 57666
+  },
+  {
+    "label": "gatsbyjs/gatsby",
+    "value": 57023
+  },
+  {
+    "label": "xingshaocheng/architect-awesome",
+    "value": 56807
+  },
+  {
+    "label": "adam-p/markdown-here",
+    "value": 56633
+  },
+  {
+    "label": "ripienaar/free-for-dev",
+    "value": 56100
+  },
+  {
+    "label": "mitsuhiko/flask",
+    "value": 55933
+  },
+  {
+    "label": "google/protobuf",
+    "value": 55682
+  },
+  {
+    "label": "tailwindcss/tailwindcss",
+    "value": 55541
+  },
+  {
+    "label": "521xueweihan/HelloGitHub",
+    "value": 55395
+  },
+  {
+    "label": "docker/docker",
+    "value": 55290
+  },
+  {
+    "label": "fatedier/frp",
+    "value": 55261
+  },
+  {
+    "label": "mr-mig/every-programmer-should-know",
+    "value": 55072
+  },
+  {
+    "label": "kelseyhightower/nocode",
+    "value": 55022
+  },
+  {
+    "label": "codercom/code-server",
+    "value": 54873
+  },
+  {
+    "label": "creationix/nvm",
+    "value": 54863
+  },
+  {
+    "label": "resume/resume.github.com",
+    "value": 54844
+  },
+  {
+    "label": "josephmisiti/awesome-machine-learning",
+    "value": 53591
+  },
+  {
+    "label": "Hack-with-Github/Awesome-Hacking",
+    "value": 52546
+  },
+  {
+    "label": "strongloop/express",
+    "value": 52123
+  },
+  {
+    "label": "home-assistant/home-assistant",
+    "value": 52026
+  },
+  {
+    "label": "apache/echarts",
+    "value": 51699
+  },
+  {
+    "label": "socketio/socket.io",
+    "value": 51336
+  },
+  {
+    "label": "antirez/redis",
+    "value": 50765
+  },
+  {
+    "label": "florinpop17/app-ideas",
+    "value": 50744
+  },
+  {
+    "label": "jaywcjlove/awesome-mac",
+    "value": 50667
+  },
+  {
+    "label": "tiangolo/fastapi",
+    "value": 50419
+  },
+  {
+    "label": "scikit-learn/scikit-learn",
+    "value": 50411
+  },
+  {
+    "label": "Font-Awesome",
+    "value": 50167
+  },
+  {
+    "label": "jgthms/bulma",
+    "value": 49976
+  },
+  {
+    "label": "azl397985856/leetcode",
+    "value": 49969
+  },
+  {
+    "label": "lodash/lodash",
+    "value": 49932
+  },
+  {
+    "label": "scutan90/DeepLearning-500-questions",
+    "value": 49184
+  },
+  {
+    "label": "ReactTraining/react-router",
+    "value": 49102
+  },
+  {
+    "label": "chartjs/Chart.js",
+    "value": 48913
+  },
+  {
+    "label": "iptv-org/iptv",
+    "value": 48671
+  },
+  {
+    "label": "ansible/ansible",
+    "value": 48530
+  },
+  {
+    "label": "spring-projects/spring-framework",
+    "value": 48398
+  },
+  {
+    "label": "godotengine/godot",
+    "value": 48256
+  },
+  {
+    "label": "TheAlgorithms/Java",
+    "value": 48158
+  },
+  {
+    "label": "python/cpython",
+    "value": 48123
+  },
+  {
+    "label": "caesar0301/awesome-public-datasets",
+    "value": 47906
+  },
+  {
+    "label": "Front-end-Developer-Interview-Questions",
+    "value": 47881
+  },
+  {
+    "label": "NARKOZ/hacker-scripts",
+    "value": 47590
+  },
+  {
+    "label": "sdmg15/Best-websites-a-programmer-should-visit",
+    "value": 47446
+  },
+  {
+    "label": "guava",
+    "value": 47172
+  },
+  {
+    "label": "enaqx/awesome-react",
+    "value": 47171
+  },
+  {
+    "label": "airbnb/superset",
+    "value": 47143
+  },
+  {
+    "label": "ReactiveX/RxJava",
+    "value": 47105
+  },
+  {
+    "label": "MaximAbramchuck/awesome-interview-questions",
+    "value": 46831
+  },
+  {
+    "label": "hakimel/reveal.js",
+    "value": 46719
+  },
+  {
+    "label": "kamilmysliwiec/nest",
+    "value": 46700
+  },
+  {
+    "label": "tesseract-ocr/tesseract",
+    "value": 46491
+  },
+  {
+    "label": "aymericdamien/TensorFlow-Examples",
+    "value": 46254
+  },
+  {
+    "label": "neovim",
+    "value": 46231
+  },
+  {
+    "label": "soimort/you-get",
+    "value": 46216
+  },
+  {
+    "label": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "value": 46192
+  },
+  {
+    "label": "httpie",
+    "value": 46096
+  },
+  {
+    "label": "grafana/grafana",
+    "value": 46006
+  },
+  {
+    "label": "leonardomso/33-js-concepts",
+    "value": 45828
+  },
+  {
+    "label": "ageitgey/face_recognition",
+    "value": 45805
+  },
+  {
+    "label": "wasabeef/awesome-android-ui",
+    "value": 45534
+  },
+  {
+    "label": "strapi/strapi",
+    "value": 45375
+  },
+  {
+    "label": "serverless/serverless",
+    "value": 45096
+  },
+  {
+    "label": "papers-we-love/papers-we-love",
+    "value": 45094
+  },
+  {
+    "label": "x64dbg/x64dbg",
+    "value": 45090
+  },
+  {
+    "label": "v2ray/v2ray-core",
+    "value": 44957
+  },
+  {
+    "label": "googlesamples/android-architecture",
+    "value": 44950
+  },
+  {
+    "label": "yarnpkg/yarn",
+    "value": 44691
+  },
+  {
+    "label": "prettier/prettier",
+    "value": 44651
+  },
+  {
+    "label": "JetBrains/kotlin",
+    "value": 44615
+  },
+  {
+    "label": "Semantic-UI",
+    "value": 44371
+  },
+  {
+    "label": "FreeCodeCampChina/freecodecamp.cn",
+    "value": 44210
+  },
+  {
+    "label": "juliangarnier/anime",
+    "value": 43612
+  },
+  {
+    "label": "babel/babel",
+    "value": 43564
+  },
+  {
+    "label": "microsoft/Web-Dev-For-Beginners",
+    "value": 43438
+  },
+  {
+    "label": "lydiahallie/javascript-questions",
+    "value": 43429
+  },
+  {
+    "label": "jquery/jquery",
+    "value": 43371
+  },
+  {
+    "label": "minimaxir/big-list-of-naughty-strings",
+    "value": 43171
+  },
+  {
+    "label": "square/okhttp",
+    "value": 43116
+  },
+  {
+    "label": "junegunn/fzf",
+    "value": 42998
+  },
+  {
+    "label": "prometheus/prometheus",
+    "value": 42890
+  },
+  {
+    "label": "zeeshanu/learn-regex",
+    "value": 42864
+  },
+  {
+    "label": "parcel-bundler/parcel",
+    "value": 42821
+  },
+  {
+    "label": "bailicangdu/vue2-elm",
+    "value": 42802
+  },
+  {
+    "label": "Dogfalo/materialize",
+    "value": 42666
+  },
+  {
+    "label": "nuxt/nuxt.js",
+    "value": 42554
+  },
+  {
+    "label": "kennethreitz/requests",
+    "value": 42452
+  },
+  {
+    "label": "3b1b/manim",
+    "value": 42432
+  },
+  {
+    "label": "rails/rails",
+    "value": 42396
+  },
+  {
+    "label": "deepfakes/faceswap",
+    "value": 42070
+  },
+  {
+    "label": "zeit/hyperterm",
+    "value": 41892
+  },
+  {
+    "label": "sindresorhus/awesome-nodejs",
+    "value": 41758
+  },
+  {
+    "label": "almasaeed2010/AdminLTE",
+    "value": 41646
+  },
+  {
+    "label": "angular/angular.js",
+    "value": 41410
+  },
+  {
+    "label": "git/git",
+    "value": 41341
+  },
+  {
+    "label": "MunGell/awesome-for-beginners",
+    "value": 41321
+  },
+  {
+    "label": "ionic",
+    "value": 41295
+  },
+  {
+    "label": "scrapy/scrapy",
+    "value": 41010
+  },
+  {
+    "label": "dcloudio/uni-app",
+    "value": 40963
+  },
+  {
+    "label": "Solido/awesome-flutter",
+    "value": 40948
+  },
+  {
+    "label": "necolas/normalize.css",
+    "value": 40932
+  },
+  {
+    "label": "awesome-ios",
+    "value": 40779
+  },
+  {
+    "label": "alibaba/dubbo",
+    "value": 40556
+  },
+  {
+    "label": "mholt/caddy",
+    "value": 40338
+  },
+  {
+    "label": "syncthing/syncthing",
+    "value": 39850
+  },
+  {
+    "label": "square/retrofit",
+    "value": 39838
+  },
+  {
+    "label": "html5-boilerplate",
+    "value": 39784
+  },
+  {
+    "label": "justjavac/awesome-wechat-weapp",
+    "value": 39644
+  },
+  {
+    "label": "astaxie/build-web-application-with-golang",
+    "value": 39329
+  },
+  {
+    "label": "alacritty/alacritty",
+    "value": 39314
+  },
+  {
+    "label": "localstack/localstack",
+    "value": 38981
+  },
+  {
+    "label": "ethereum/go-ethereum",
+    "value": 38899
+  },
+  {
+    "label": "JuliaLang/julia",
+    "value": 38753
+  },
+  {
+    "label": "facebook/jest",
+    "value": 38716
+  },
+  {
+    "label": "containous/traefik",
+    "value": 38687
+  },
+  {
+    "label": "danielmiessler/SecLists",
+    "value": 38553
+  },
+  {
+    "label": "binhnguyennus/awesome-scalability",
+    "value": 38537
+  },
+  {
+    "label": "prakhar1989/awesome-courses",
+    "value": 38508
+  },
+  {
+    "label": "algorithm-visualizer/algorithm-visualizer",
+    "value": 38441
+  },
+  {
+    "label": "cypress-io/cypress",
+    "value": 38207
+  },
+  {
+    "label": "Alvin9999/new-pac",
+    "value": 38182
+  },
+  {
+    "label": "gogits/gogs",
+    "value": 38040
+  },
+  {
+    "label": "material-design-icons",
+    "value": 38034
+  },
+  {
+    "label": "styled-components/styled-components",
+    "value": 37997
+  },
+  {
+    "label": "XX-net/XX-Net",
+    "value": 37969
+  },
+  {
+    "label": "jp9000/obs-studio",
+    "value": 37844
+  },
+  {
+    "label": "fighting41love/funNLP",
+    "value": 37726
+  },
+  {
+    "label": "vitejs/vite",
+    "value": 37713
+  },
+  {
+    "label": "anuraghazra/github-readme-stats",
+    "value": 37635
+  },
+  {
+    "label": "google/material-design-lite",
+    "value": 37608
+  },
+  {
+    "label": "iamkun/dayjs",
+    "value": 37591
+  },
+  {
+    "label": "tldr-pages/tldr",
+    "value": 37397
+  },
+  {
+    "label": "hoppscotch/hoppscotch",
+    "value": 37357
+  },
+  {
+    "label": "DefinitelyTyped/DefinitelyTyped",
+    "value": 37246
+  },
+  {
+    "label": "fffaraz/awesome-cpp",
+    "value": 37202
+  },
+  {
+    "label": "GitSquared/edex-ui",
+    "value": 37041
+  },
+  {
+    "label": "coreos/etcd",
+    "value": 36986
+  },
+  {
+    "label": "jekyll",
+    "value": 36801
+  },
+  {
+    "label": "pi-hole/pi-hole",
+    "value": 36666
+  },
+  {
+    "label": "git-flight-rules",
+    "value": 36663
+  },
+  {
+    "label": "chinese-poetry/chinese-poetry",
+    "value": 36465
+  },
+  {
+    "label": "shadowsocks/shadowsocks-android",
+    "value": 36456
+  },
+  {
+    "label": "PhilJay/MPAndroidChart",
+    "value": 36383
+  },
+  {
+    "label": "willmcgugan/rich",
+    "value": 36380
+  },
+  {
+    "label": "knsv/mermaid",
+    "value": 36363
+  },
+  {
+    "label": "KrauseFx/fastlane",
+    "value": 36363
+  },
+  {
+    "label": "isocpp/CppCoreGuidelines",
+    "value": 36322
+  },
+  {
+    "label": "bradtraversy/design-resources-for-developers",
+    "value": 36158
+  },
+  {
+    "label": "RocketChat/Rocket.Chat",
+    "value": 36153
+  },
+  {
+    "label": "0voice/interview_internal_reference",
+    "value": 36006
+  },
+  {
+    "label": "BVLC/caffe",
+    "value": 35994
+  },
+  {
+    "label": "vuetifyjs/vuetify",
+    "value": 35975
+  },
+  {
+    "label": "swisskyrepo/PayloadsAllTheThings",
+    "value": 35949
+  },
+  {
+    "label": "PowerShell/PowerShell",
+    "value": 35945
+  },
+  {
+    "label": "ocornut/imgui",
+    "value": 35891
+  },
+  {
+    "label": "grpc/grpc",
+    "value": 35809
+  },
+  {
+    "label": "shadowsocks",
+    "value": 35764
+  },
+  {
+    "label": "Avik-Jain/100-Days-Of-ML-Code",
+    "value": 35612
+  },
+  {
+    "label": "Alamofire/Alamofire",
+    "value": 35588
+  },
+  {
+    "label": "commaai/openpilot",
+    "value": 35542
+  },
+  {
+    "label": "karan/Projects",
+    "value": 35347
+  },
+  {
+    "label": "hexojs/hexo",
+    "value": 35174
+  },
+  {
+    "label": "apachecn/MachineLearning",
+    "value": 35162
+  },
+  {
+    "label": "ngosang/trackerslist",
+    "value": 34988
+  },
+  {
+    "label": "airbnb/lottie-android",
+    "value": 34766
+  },
+  {
+    "label": "exacity/deeplearningbook-chinese",
+    "value": 34729
+  },
+  {
+    "label": "CorentinJ/Real-Time-Voice-Cloning",
+    "value": 34716
+  },
+  {
+    "label": "ryanoasis/nerd-fonts",
+    "value": 34695
+  },
+  {
+    "label": "lord/slate",
+    "value": 34499
+  },
+  {
+    "label": "jakevdp/PythonDataScienceHandbook",
+    "value": 34450
+  },
+  {
+    "label": "kamranahmedse/design-patterns-for-humans",
+    "value": 34447
+  },
+  {
+    "label": "spark",
+    "value": 34432
+  },
+  {
+    "label": "yangshun/front-end-interview-handbook",
+    "value": 34322
+  },
+  {
+    "label": "moment",
+    "value": 34279
+  },
+  {
+    "label": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "value": 34204
+  },
+  {
+    "label": "zenorocha/clipboard.js",
+    "value": 34070
+  },
+  {
+    "label": "Blankj/AndroidUtilCode",
+    "value": 34068
+  },
+  {
+    "label": "bumptech/glide",
+    "value": 34056
+  },
+  {
+    "label": "microsoft/playwright",
+    "value": 34022
+  },
+  {
+    "label": "Homebrew/brew",
+    "value": 33924
+  },
+  {
+    "label": "alex/what-happens-when",
+    "value": 33882
+  },
+  {
+    "label": "developit/preact",
+    "value": 33774
+  },
+  {
+    "label": "ant-design/ant-design-pro",
+    "value": 33644
+  },
+  {
+    "label": "Unitech/pm2",
+    "value": 33635
+  },
+  {
+    "label": "jondot/awesome-react-native",
+    "value": 33542
+  },
+  {
+    "label": "testerSunshine/12306",
+    "value": 33440
+  },
+  {
+    "label": "FiloSottile/mkcert",
+    "value": 33321
+  },
+  {
+    "label": "NationalSecurityAgency/ghidra",
+    "value": 33169
+  },
+  {
+    "label": "akullpp/awesome-java",
+    "value": 33136
+  },
+  {
+    "label": "minio/minio",
+    "value": 33132
+  },
+  {
+    "label": "Mashape/kong",
+    "value": 33095
+  },
+  {
+    "label": "mozilla/pdf.js",
+    "value": 33051
+  },
+  {
+    "label": "Marak/faker.js",
+    "value": 33017
+  },
+  {
+    "label": "agalwood/Motrix",
+    "value": 32883
+  },
+  {
+    "label": "shadowsocks/ShadowsocksX-NG",
+    "value": 32793
+  },
+  {
+    "label": "pingcap/tidb",
+    "value": 32768
+  },
+  {
+    "label": "Developer-Y/cs-video-courses",
+    "value": 32764
+  },
+  {
+    "label": "xitu/gold-miner",
+    "value": 32693
+  },
+  {
+    "label": "lerna/lerna",
+    "value": 32540
+  },
+  {
+    "label": "ncw/rclone",
+    "value": 32425
+  },
+  {
+    "label": "pixijs/pixi.js",
+    "value": 32343
+  },
+  {
+    "label": "pydata/pandas",
+    "value": 32321
+  },
+  {
+    "label": "google/styleguide",
+    "value": 32321
+  },
+  {
+    "label": "iperov/DeepFaceLab",
+    "value": 32320
+  },
+  {
+    "label": "sharkdp/bat",
+    "value": 32311
+  },
+  {
+    "label": "gorhill/uBlock",
+    "value": 32308
+  },
+  {
+    "label": "sw-yx/react-typescript-cheatsheet",
+    "value": 32255
+  },
+  {
+    "label": "open-guides/og-aws",
+    "value": 32242
+  },
+  {
+    "label": "Bilibili/ijkplayer",
+    "value": 32202
+  },
+  {
+    "label": "php/php-src",
+    "value": 32187
+  },
+  {
+    "label": "dkhamsing/open-source-ios-apps",
+    "value": 32084
+  },
+  {
+    "label": "NervJS/taro",
+    "value": 31885
+  },
+  {
+    "label": "Eugeny/tabby",
+    "value": 31757
+  },
+  {
+    "label": "tauri-apps/tauri",
+    "value": 31736
+  },
+  {
+    "label": "jiahaog/nativefier",
+    "value": 31656
+  },
+  {
+    "label": "facebook/docusaurus",
+    "value": 31512
+  },
+  {
+    "label": "eugenp/tutorials",
+    "value": 31508
+  },
+  {
+    "label": "google-research/bert",
+    "value": 31446
+  },
+  {
+    "label": "vuejs/vue-cli",
+    "value": 31405
+  },
+  {
+    "label": "mxstbr/react-boilerplate",
+    "value": 31307
+  },
+  {
+    "label": "joshbuchea/HEAD",
+    "value": 31305
+  },
+  {
+    "label": "mli/gluon-tutorials-zh",
+    "value": 31229
+  },
+  {
+    "label": "TryGhost/Ghost",
+    "value": 31190
+  },
+  {
+    "label": "formulahendry/955.WLB",
+    "value": 31097
+  },
+  {
+    "label": "AobingJava/JavaFamily",
+    "value": 31088
+  },
+  {
+    "label": "CSSEGISandData/COVID-19",
+    "value": 31003
+  },
+  {
+    "label": "hashicorp/terraform",
+    "value": 30981
+  },
+  {
+    "label": "Trinea/android-open-project",
+    "value": 30869
+  },
+  {
+    "label": "jaredpalmer/formik",
+    "value": 30836
+  },
+  {
+    "label": "vlang/v",
+    "value": 30822
+  },
+  {
+    "label": "lhc70000/iina",
+    "value": 30756
+  },
+  {
+    "label": "facebook/immutable-js",
+    "value": 30755
+  },
+  {
+    "label": "istio/istio",
+    "value": 30745
+  },
+  {
+    "label": "kelseyhightower/kubernetes-the-hard-way",
+    "value": 30725
+  },
+  {
+    "label": "nlohmann/json",
+    "value": 30685
+  },
+  {
+    "label": "geekxh/hello-algorithm",
+    "value": 30656
+  },
+  {
+    "label": "ventoy/Ventoy",
+    "value": 30617
+  },
+  {
+    "label": "nylas/N1",
+    "value": 30572
+  },
+  {
+    "label": "marktext/marktext",
+    "value": 30552
+  },
+  {
+    "label": "koa",
+    "value": 30471
+  },
+  {
+    "label": "evanw/esbuild",
+    "value": 30470
+  },
+  {
+    "label": "letsencrypt/letsencrypt",
+    "value": 30413
+  },
+  {
+    "label": "carbon-app/carbon",
+    "value": 30402
+  },
+  {
+    "label": "sentsin/layui",
+    "value": 30371
+  },
+  {
+    "label": "brillout/awesome-react-components",
+    "value": 30349
+  },
+  {
+    "label": "vuejs/vuex",
+    "value": 30342
+  },
+  {
+    "label": "golang-standards/project-layout",
+    "value": 30329
+  },
+  {
+    "label": "laurent22/joplin",
+    "value": 30295
+  },
+  {
+    "label": "Swiper",
+    "value": 30246
+  },
+  {
+    "label": "microsoft/ML-For-Beginners",
+    "value": 30244
+  },
+  {
+    "label": "meteor",
+    "value": 30221
+  },
+  {
+    "label": "sherlock-project/sherlock",
+    "value": 30157
+  },
+  {
+    "label": "vuejs/vue-next",
+    "value": 30156
+  },
+  {
+    "label": "BurntSushi/ripgrep",
+    "value": 30129
+  },
+  {
+    "label": "skylot/jadx",
+    "value": 30016
+  },
+  {
+    "label": "fullPage.js",
+    "value": 29984
+  },
+  {
+    "label": "vim/vim",
+    "value": 29932
+  },
+  {
+    "label": "Unknwon/the-way-to-go_ZH_CN",
+    "value": 29898
+  },
+  {
+    "label": "GokuMohandas/practicalAI",
+    "value": 29877
+  },
+  {
+    "label": "lukehoban/es6features",
+    "value": 29782
+  },
+  {
+    "label": "serhii-londar/open-source-mac-os-apps",
+    "value": 29750
+  },
+  {
+    "label": "go-gitea/gitea",
+    "value": 29738
+  },
+  {
+    "label": "quilljs/quill",
+    "value": 29707
+  },
+  {
+    "label": "shengxinjing/programmer-job-blacklist",
+    "value": 29660
+  },
+  {
+    "label": "feross/standard",
+    "value": 29621
+  },
+  {
+    "label": "ityouknow/spring-boot-examples",
+    "value": 29602
+  },
+  {
+    "label": "square/leakcanary",
+    "value": 29549
+  },
+  {
+    "label": "google/leveldb",
+    "value": 29534
+  },
+  {
+    "label": "jeecgboot/jeecg-boot",
+    "value": 29472
+  },
+  {
+    "label": "weui/weui",
+    "value": 29429
+  },
+  {
+    "label": "satwikkansal/wtfpython",
+    "value": 29327
+  },
+  {
+    "label": "cli/cli",
+    "value": 29302
+  },
+  {
+    "label": "microsoft/monaco-editor",
+    "value": 29126
+  },
+  {
+    "label": "SheetJS/js-xlsx",
+    "value": 29026
+  },
+  {
+    "label": "dylanaraps/pure-bash-bible",
+    "value": 28940
+  },
+  {
+    "label": "alibaba/p3c",
+    "value": 28889
+  },
+  {
+    "label": "FFmpeg/FFmpeg",
+    "value": 28864
+  },
+  {
+    "label": "hollance/swift-algorithm-club",
+    "value": 28830
+  },
+  {
+    "label": "videojs/video.js",
+    "value": 28791
+  },
+  {
+    "label": "huginn",
+    "value": 28790
+  },
+  {
+    "label": "date-fns/date-fns",
+    "value": 28758
+  },
+  {
+    "label": "wagoodman/dive",
+    "value": 28726
+  },
+  {
+    "label": "tootsuite/mastodon",
+    "value": 28644
+  },
+  {
+    "label": "imhuay/Algorithm_Interview_Notes-Chinese",
+    "value": 28632
+  },
+  {
+    "label": "streamich/react-use",
+    "value": 28617
+  },
+  {
+    "label": "angular/angular-cli",
+    "value": 28603
+  },
+  {
+    "label": "alibaba/arthas",
+    "value": 28600
+  },
+  {
+    "label": "metabase/metabase",
+    "value": 28594
+  },
+  {
+    "label": "thedillonb/CodeHub",
+    "value": 28506
+  },
+  {
+    "label": "jgraph/drawio",
+    "value": 28499
+  },
+  {
+    "label": "chubin/cheat.sh",
+    "value": 28399
+  },
+  {
+    "label": "faif/python-patterns",
+    "value": 28374
+  },
+  {
+    "label": "Home",
+    "value": 28351
+  },
+  {
+    "label": "zxing/zxing",
+    "value": 28309
+  },
+  {
+    "label": "2dust/v2rayN",
+    "value": 28297
+  },
+  {
+    "label": "typeorm/typeorm",
+    "value": 28288
+  },
+  {
+    "label": "openai/gym",
+    "value": 28267
+  },
+  {
+    "label": "wearehive/project-guidelines",
+    "value": 28174
+  },
+  {
+    "label": "sahat/hackathon-starter",
+    "value": 28167
+  },
+  {
+    "label": "astaxie/beego",
+    "value": 28147
+  },
+  {
+    "label": "wg/wrk",
+    "value": 28135
+  },
+  {
+    "label": "gto76/python-cheatsheet",
+    "value": 28123
+  },
+  {
+    "label": "houshanren/hangzhou_house_knowledge",
+    "value": 28122
+  },
+  {
+    "label": "ZuzooVn/machine-learning-for-software-engineers",
+    "value": 28045
+  },
+  {
+    "label": "monkeyWie/proxyee-down",
+    "value": 27911
+  },
+  {
+    "label": "crossoverJie/Java-Interview",
+    "value": 27908
+  },
+  {
+    "label": "alibaba/fastjson",
+    "value": 27825
+  },
+  {
+    "label": "ctripcorp/apollo",
+    "value": 27823
+  },
+  {
+    "label": "ReactiveX/rxjs",
+    "value": 27819
+  },
+  {
+    "label": "geekcomputers/Python",
+    "value": 27806
+  },
+  {
+    "label": "herrbischoff/awesome-osx-command-line",
+    "value": 27806
+  },
+  {
+    "label": "junegunn/vim-plug",
+    "value": 27792
+  },
+  {
+    "label": "koalaman/shellcheck",
+    "value": 27774
+  },
+  {
+    "label": "bannedbook/fanqiang",
+    "value": 27715
+  },
+  {
+    "label": "poteto/hiring-without-whiteboards",
+    "value": 27703
+  },
+  {
+    "label": "mqyqingfeng/Blog",
+    "value": 27685
+  },
+  {
+    "label": "postcss",
+    "value": 27639
+  },
+  {
+    "label": "codepath/android_guides",
+    "value": 27580
+  },
+  {
+    "label": "photonstorm/phaser",
+    "value": 27556
+  },
+  {
+    "label": "go-gorm/gorm",
+    "value": 27554
+  },
+  {
+    "label": "jieba",
+    "value": 27550
+  },
+  {
+    "label": "nwjs/nw.js",
+    "value": 27549
+  },
+  {
+    "label": "Advanced-Frontend/Daily-Interview-Question",
+    "value": 27530
+  },
+  {
+    "label": "netty/netty",
+    "value": 27506
+  },
+  {
+    "label": "lib-pku/libpku",
+    "value": 27502
+  },
+  {
+    "label": "supabase/supabase",
+    "value": 27483
+  },
+  {
+    "label": "gulpjs/gulp",
+    "value": 27474
+  },
+  {
+    "label": "google/googletest",
+    "value": 27434
+  },
+  {
+    "label": "Leaflet/Leaflet",
+    "value": 27424
+  },
+  {
+    "label": "react-hook-form/react-hook-form",
+    "value": 27413
+  },
+  {
+    "label": "Fndroid/clash_for_windows_pkg",
+    "value": 27357
+  },
+  {
+    "label": "danielgindi/ios-charts",
+    "value": 27285
+  },
+  {
+    "label": "bodymovin/bodymovin",
+    "value": 27207
+  },
+  {
+    "label": "atlassian/react-beautiful-dnd",
+    "value": 27183
+  },
+  {
+    "label": "aria2/aria2",
+    "value": 27151
+  },
+  {
+    "label": "QSCTech/zju-icicles",
+    "value": 27068
+  },
+  {
+    "label": "iview/iview",
+    "value": 27051
+  },
+  {
+    "label": "facebookresearch/Detectron",
+    "value": 27035
+  },
+  {
+    "label": "naptha/tesseract.js",
+    "value": 26804
+  },
+  {
+    "label": "JakeWharton/butterknife",
+    "value": 26780
+  },
+  {
+    "label": "sorrycc/awesome-javascript",
+    "value": 26702
+  },
+  {
+    "label": "excalidraw/excalidraw",
+    "value": 26692
+  },
+  {
+    "label": "donnemartin/interactive-coding-challenges",
+    "value": 26670
+  },
+  {
+    "label": "amix/vimrc",
+    "value": 26597
+  },
+  {
+    "label": "transloadit/uppy",
+    "value": 26570
+  },
+  {
+    "label": "hankcs/HanLP",
+    "value": 26568
+  },
+  {
+    "label": "github-cheat-sheet",
+    "value": 26557
+  },
+  {
+    "label": "getsentry/sentry",
+    "value": 26554
+  },
+  {
+    "label": "metasploit-framework",
+    "value": 26544
+  },
+  {
+    "label": "github/fetch",
+    "value": 26541
+  },
+  {
+    "label": "Wechat-Group/weixin-java-tools",
+    "value": 26539
+  },
+  {
+    "label": "jgraph/drawio-desktop",
+    "value": 26525
+  },
+  {
+    "label": "UsergeTeam/Userge",
+    "value": 26513
+  },
+  {
+    "label": "AFNetworking/AFNetworking",
+    "value": 26468
+  },
+  {
+    "label": "mobxjs/mobx",
+    "value": 26446
+  },
+  {
+    "label": "microsoft/calculator",
+    "value": 26374
+  },
+  {
+    "label": "desktop/desktop",
+    "value": 26354
+  },
+  {
+    "label": "alibaba/druid",
+    "value": 26351
+  },
+  {
+    "label": "Neilpang/acme.sh",
+    "value": 26335
+  },
+  {
+    "label": "0xAX/linux-insides",
+    "value": 26326
+  },
+  {
+    "label": "xkcoding/spring-boot-demo",
+    "value": 26323
+  },
+  {
+    "label": "hasura/graphql-engine",
+    "value": 26310
+  },
+  {
+    "label": "LeCoupa/awesome-cheatsheets",
+    "value": 26192
+  },
+  {
+    "label": "tipsy/github-profile-summary",
+    "value": 26168
+  },
+  {
+    "label": "denysdovhan/wtfjs",
+    "value": 26138
+  },
+  {
+    "label": "tannerlinsley/react-query",
+    "value": 26085
+  },
+  {
+    "label": "Thibaut/devdocs",
+    "value": 25985
+  },
+  {
+    "label": "aosabook/500lines",
+    "value": 25951
+  },
+  {
+    "label": "jesseduffield/lazygit",
+    "value": 25950
+  },
+  {
+    "label": "syl20bnr/spacemacs",
+    "value": 25942
+  },
+  {
+    "label": "airbnb/airflow",
+    "value": 25901
+  },
+  {
+    "label": "laravel/framework",
+    "value": 25896
+  },
+  {
+    "label": "CymChad/BaseRecyclerViewAdapterHelper",
+    "value": 25890
+  },
+  {
+    "label": "pyenv",
+    "value": 25885
+  },
+  {
+    "label": "ageron/handson-ml",
+    "value": 25878
+  },
+  {
+    "label": "topjohnwu/Magisk",
+    "value": 25841
+  },
+  {
+    "label": "discourse",
+    "value": 25820
+  },
+  {
+    "label": "GoogleChrome/lighthouse",
+    "value": 25812
+  },
+  {
+    "label": "ambv/black",
+    "value": 25792
+  },
+  {
+    "label": "akveo/ng2-admin",
+    "value": 25777
+  },
+  {
+    "label": "kud1ing/awesome-rust",
+    "value": 25736
+  },
+  {
+    "label": "dbeaver/dbeaver",
+    "value": 25718
+  },
+  {
+    "label": "typicode/husky",
+    "value": 25691
+  },
+  {
+    "label": "angular/material2",
+    "value": 25684
+  },
+  {
+    "label": "lenve/vhr",
+    "value": 25662
+  },
+  {
+    "label": "terryum/awesome-deep-learning-papers",
+    "value": 25662
+  },
+  {
+    "label": "romkatv/powerlevel10k",
+    "value": 25656
+  },
+  {
+    "label": "kataras/iris",
+    "value": 25653
+  },
+  {
+    "label": "tmux/tmux",
+    "value": 25633
+  },
+  {
+    "label": "JedWatson/react-select",
+    "value": 25607
+  },
+  {
+    "label": "spf13/cobra",
+    "value": 25543
+  },
+  {
+    "label": "iikira/BaiduPCS-Go",
+    "value": 25456
+  },
+  {
+    "label": "jobbole/awesome-python-cn",
+    "value": 25452
+  },
+  {
+    "label": "feross/webtorrent",
+    "value": 25393
+  },
+  {
+    "label": "Roshanjossey/first-contributions",
+    "value": 25366
+  },
+  {
+    "label": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "value": 25319
+  },
+  {
+    "label": "Dreamacro/clash",
+    "value": 25304
+  },
+  {
+    "label": "tabler/tabler",
+    "value": 25302
+  },
+  {
+    "label": "UsergeTeam/Userge-Assistant",
+    "value": 25270
+  },
+  {
+    "label": "LisaDziuba/Awesome-Design-Tools",
+    "value": 25191
+  },
+  {
+    "label": "yunjey/pytorch-tutorial",
+    "value": 25179
+  },
+  {
+    "label": "scwang90/SmartRefreshLayout",
+    "value": 25095
+  },
+  {
+    "label": "sequelize/sequelize",
+    "value": 25050
+  },
+  {
+    "label": "geekcompany/ResumeSample",
+    "value": 24981
+  },
+  {
+    "label": "facebookresearch/fastText",
+    "value": 24970
+  }
+]
