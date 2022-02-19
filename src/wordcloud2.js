@@ -748,7 +748,6 @@ export default function WordCloud(elements, options) {
           ctx.fillRect(0, 0, ngx * (g + 1), ngy * (g + 1))
         } else {
           el.textContent = ''
-          el.style.backgroundColor = settings.backgroundColor
           el.style.position = 'relative'
         }
       })

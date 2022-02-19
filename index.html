@@ -5,8 +5,13 @@
   <title>Tittttle!</title>
 
   <link rel="stylesheet" href="./dist/index.css">
+  <style>
+    body {
+        transition: color .25s ease-in-out, background-color .25s ease-in-out;
+    }
+  </style>
 </head>
-<body style="margin: 0">
+<body style="margin: 0; background: white; color: gray">
 
 <div style="width: 100vw; height: 550px; font-size: 128px; line-height: 128px; font-family: Times; font-weight: 200">
   <div class="wordcloud-container">
@@ -14,6 +19,8 @@
       This is a title
     </h1>
   </div>
+  <button onclick="toggleDark()">dark!</button>
+  <button onclick="toggleLight()">light!</button>
 </div>
 </body>
 <script type="module">
@@ -35,5 +42,20 @@
   start(list, {
     container: document.querySelector('.wordcloud-container')
   })
+</script>
+<script>
+  function toggleDark () {
+    document.body.style.background = 'rgb(36, 37, 38)'
+    document.body.style.color = 'whitesmoke'
+  }
+  function toggleLight () {
+    document.body.style.background = 'white'
+    document.body.style.color = 'gray'
+  }
+
+  let matched = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (matched) {
+    toggleDark()
+  }
 </script>
 </html>

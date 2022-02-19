@@ -42,7 +42,6 @@ export function start(list, {container}) {
 
     // Always manually clean up the html output
     htmlCanvas.innerHTML = '';
-    htmlCanvas.style.backgroundColor = '#fff'
 
 
     const wc = new WordCloud([canvas, htmlCanvas], {
