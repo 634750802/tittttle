@@ -1,0 +1,49 @@
+@import "../node_modules/animate.css/source/_vars.css";
+@import "../node_modules/animate.css/source/_base.css";
+@import "../node_modules/animate.css/source/zooming_entrances/zoomIn.css";
+@import "../node_modules/animate.css/source/zooming_exits/zoomOut.css";
+@import "../node_modules/animate.css/source/fading_entrances/fadeIn.css";
+@import "../node_modules/animate.css/source/fading_exits/fadeOut.css";
+
+.wordcloud-container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    font-family: system, -apple-system, 'Roboto Light', sans-serif;
+    font-size: 128px;
+    line-height: 150px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wordcloud-container h1 {
+    pointer-events: none;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    text-align: center;
+}
+
+.wordcloud-element {
+    animation-duration: 1s;
+    animation-duration: var(--animate-duration);
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    position: absolute;
+    display: block;
+    white-space: nowrap;
+    transform-origin: 50% 50%;
+    cursor: pointer;
+    transition: color .2s ease;
+    text-decoration: none;
+}
+
+.wordcloud-element:hover {
+    color: rgba(0, 0, 0, .7) !important;
+}
