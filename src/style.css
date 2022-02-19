@@ -6,13 +6,13 @@
 @import "../node_modules/animate.css/source/fading_exits/fadeOut.css";
 
 .wordcloud-container {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     position: relative;
-    font-family: system, -apple-system, 'Roboto Light', sans-serif;
-    font-size: 128px;
-    line-height: 150px;
-    font-weight: 400;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
     display: flex;
     align-items: center;
     justify-content: center;

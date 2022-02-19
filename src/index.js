@@ -4,6 +4,7 @@ import WordCloud from "./wordcloud2";
 import randomColor from 'randomcolor';
 import throttle from 'lodash/throttle'
 import './style.css'
+import {observeResize} from "./observe-resize";
 
 /**
  *
@@ -97,10 +98,10 @@ export function start(list, {container}) {
     showWords()
   }
 
-  window.addEventListener('resize', onResize, {passive: true})
+  const removeObserver = observeResize(container, onResize)
 
   return () => {
-    window.removeEventListener('resize', onResize)
+    removeObserver()
     destroy()
     htmlCanvas.classList.add('animated', 'zoomOut')
     htmlCanvas.ontransitionend = () => {
